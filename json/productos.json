@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "tipo": "Ceviche",
+    "nombre": "Ceviche Picante",
+    "precio": 18000,
+    "foto": "../imagenes/ceviche.png"
+}, {
+    "id": 2,
+    "tipo": "Eby Furai",
+    "nombre": "Eby Furai",
+    "precio": 14000,
+    "foto": "../imagenes/eby.jpg"
+}, {
+    "id": 3,
+    "tipo": "Geishas",
+    "nombre": "Geishas",
+    "precio": 10000,
+    "foto": "../imagenes/gei.jpg"
+}, {
+    "id": 4,
+    "tipo": "Maki",
+    "nombre": "Maki",
+    "precio": 10000,
+    "foto": "../imagenes/maki.jpg"
+}, {
+    "id": 5,
+    "tipo": "Nibuta",
+    "nombre": "Nibuta",
+    "precio": 14000,
+    "foto": "../imagenes/nibuta.jpg"
+}, {
+    "id": 6,
+    "tipo": "Nigiri",
+    "nombre": "Nigiri",
+    "precio": 15000,
+    "foto": "../imagenes/nigiri.jpg"
+}, {
+    "id": 7,
+    "tipo": "Panko",
+    "nombre": "Panko Fresco",
+    "precio": 27000,
+    "foto": "../imagenes/panko.jpg"
+}, {
+    "id": 8,
+    "tipo": "Poke",
+    "nombre": "Pokes",
+    "precio": 20000,
+    "foto": "../imagenes/poke.jpg"
+}, {
+    "id": 9,
+    "tipo": "Sashimi",
+    "nombre": "Sashimis",
+    "precio": 38000,
+    "foto": "../imagenes/sashimi.jpg"
+}, {
+    "id": 10,
+    "tipo": "Setas",
+    "nombre": "Setas Variedad",
+    "precio": 38000,
+    "foto": "../imagenes/setas.jpg"
+}, {
+    "id": 11,
+    "tipo": "Shari",
+    "nombre": "Shari Preparado",
+    "precio": 13000,
+    "foto": "../imagenes/shari.jpg"
+}, {
+    "id": 12,
+    "tipo": "Surimi",
+    "nombre": "Surimi",
+    "precio": 22000,
+    "foto": "../imagenes/suri.jpg"
+    }]
